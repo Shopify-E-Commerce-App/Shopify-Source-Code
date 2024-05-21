@@ -16,13 +16,13 @@ Welcome to Shopify, our latest project, an online multivendor e-commerce web app
 ## Key Features
 
 ### User-Friendly Shopping Experience
-- **Account Creation**: Users can easily sign up and create accounts.
-- **Shopping Cart**: Add items to the cart and place orders effortlessly.
-- **Order Management**: Track orders from dispatch to delivery.
+- *Account Creation*: Users can easily sign up and create accounts.
+- *Shopping Cart*: Add items to the cart and place orders effortlessly.
+- *Order Management*: Track orders from dispatch to delivery.
 
 ### Vendor Opportunities
-- **Vendor Registration**: Users can apply to become vendors through a registration form.
-- **Admin Dashboard**: Approved vendors gain access to a comprehensive dashboard to:
+- *Vendor Registration*: Users can apply to become vendors through a registration form.
+- *Admin Dashboard*: Approved vendors gain access to a comprehensive dashboard to:
   - Add product categories and list products.
   - Monitor sales and view detailed analytics.
   - Manage product statuses (dispatched, delivered, in stock, out of stock).
@@ -31,14 +31,14 @@ Our goal with Shopify is to empower both buyers and sellers by providing a robus
 
 ## Technologies Used
 
-- **Next.js 13**: For server-side rendering and static site generation.
-- **Tailwind CSS**: For styling with utility-first CSS.
-- **TypeScript**: For type-safe JavaScript.
-- **MongoDB**: For the database.
-- **Stripe**: For payment processing.
-- **Prisma**: For database ORM.
-- **NextAuth**: For authentication.
-- **Firebase**: For image uploads.
+- *Next.js 13*: For server-side rendering and static site generation.
+- *Tailwind CSS*: For styling with utility-first CSS.
+- *TypeScript*: For type-safe JavaScript.
+- *MongoDB*: For the database.
+- *Stripe*: For payment processing.
+- *Prisma*: For database ORM.
+- *NextAuth*: For authentication.
+- *Firebase*: For image uploads.
 
 ## Getting Started
 
@@ -53,26 +53,26 @@ Make sure you have the following installed on your machine:
 
 ### Installation
 
-1. **Clone the repository:**
+1. *Clone the repository:*
 
-   ```bash
+   bash
    git clone https://github.com/yourusername/shopify.git
    cd shopify
-   ```
+   
 
-2. **Install dependencies:**
+2. *Install dependencies:*
 
-   ```bash
+   bash
    npm install
    # or
    yarn install
-   ```
+   
 
-3. **Set up environment variables:**
+3. *Set up environment variables:*
 
-   Create a `.env` file in the root directory and add the following:
+   Create a .env file in the root directory and add the following:
 
-   ```env
+   env
    NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
    STRIPE_SECRET_KEY=your_stripe_secret_key
    MONGODB_URI=your_mongodb_connection_string
@@ -84,15 +84,15 @@ Make sure you have the following installed on your machine:
    FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
    FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
    FIREBASE_APP_ID=your_firebase_app_id
-   ```
+   
 
-4. **Run the development server:**
+4. *Run the development server:*
 
-   ```bash
+   bash
    npm run dev
    # or
    yarn dev
-   ```
+   
 
    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -100,27 +100,27 @@ Make sure you have the following installed on your machine:
 
 ### User Actions
 
-- **Browse Products**: View and search for products.
-- **Create Account**: Sign up and manage personal information.
-- **Add to Cart**: Add products to the shopping cart and place orders.
-- **Order Tracking**: Monitor order status from dispatch to delivery.
+- *Browse Products*: View and search for products.
+- *Create Account*: Sign up and manage personal information.
+- *Add to Cart*: Add products to the shopping cart and place orders.
+- *Order Tracking*: Monitor order status from dispatch to delivery.
 
 ### Vendor Actions
 
-- **Register as a Vendor**: Fill out the registration form and await approval.
-- **Manage Products**: Add, edit, and delete product listings.
-- **View Analytics**: Access sales data and analytics.
-- **Manage Orders**: Update product status (dispatched, delivered, in stock, out of stock).
+- *Register as a Vendor*: Fill out the registration form and await approval.
+- *Manage Products*: Add, edit, and delete product listings.
+- *View Analytics*: Access sales data and analytics.
+- *Manage Orders*: Update product status (dispatched, delivered, in stock, out of stock).
 
 ## Contributing
 
 We welcome contributions to Shopify! Please follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
+2. Create a new branch (git checkout -b feature/YourFeature).
 3. Make your changes.
-4. Commit your changes (`git commit -m 'Add your feature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
+4. Commit your changes (git commit -m 'Add your feature').
+5. Push to the branch (git push origin feature/YourFeature).
 6. Open a pull request.
 
 ## License
@@ -130,11 +130,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or feedback, please contact us at:
-- **Email**: support@shopify.com
-- **Twitter**: [@shopify](https://twitter.com/shopify)
-- **GitHub**: [Shopify Repository](https://github.com/yourusername/shopify)
+- *Email*: bipronilghosh@gmail.com || anuska.mukherjee.2002@gmail.com
+- *GitHub*: https://github.com/Shopify-E-Commerce-App/Shopify-Source-Code?tab=readme-ov-file#key-features
 
 We hope you enjoy using Shopify as much as we enjoyed building it! #Ecommerce #WebDevelopment #NextJS #TailwindCSS #TypeScript #MongoDB #Stripe #Firebase #Prisma #NextAuth
 
 ---
-Feel free to reach out if you have any questions or need further assistance. Happy shopping and selling!
